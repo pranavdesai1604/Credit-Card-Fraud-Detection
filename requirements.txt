@@ -54,4 +54,9 @@ urllib3==2.4.0
 wcwidth==0.2.13
 webencodings==0.5.1
 yarg==0.1.9
+flask
 gunicorn
+pandas
+numpy
+matplotlib
+scikit-learn
